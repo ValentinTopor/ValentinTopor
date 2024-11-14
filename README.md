@@ -18,19 +18,29 @@ I am a dedicated and driven individual with a strong foundation in investigative
 Cybersecurity Skills:
 
 Basic Networking
+
 Password Security
+
 Threat Identification
+
 Risk Assessment
+
 Ethical Hacking (Basics)
+
 Cybersecurity Awareness
 
 Policing Transferable Skills:
 
 Investigative Skills
+
 Problem Solving
+
 Security Protocols
+
 Data Handling
+
 Critical Thinking
+
 Communication Skills
 
 ## Tools
