@@ -1,8 +1,6 @@
 # Hello, I'm Valentin
 
-[Brief Introduction - Remove this afterwards]
-
-My name is Valentin Topor, i am 17 years old.I'm currently in my second year of a Level 3 Diploma in Policing, which has equipped me with a strong foundation in investigative techniques, problem-solving, and understanding security protocols.
+I am 17 years old. I'm currently in my second year of a Level 3 Diploma in Policing, which has equipped me with a strong foundation in investigative techniques, problem-solving, and understanding security protocols.
 These skills are directly applicable to cybersecurity, and I plan to pursue a career in the field after finishing my course. 
 Throughout the course, I've gained knowledge in areas like risk assessment, ethical hacking, network security, and handling sensitive data—skills that I am eager to apply in a professional cybersecurity environment.
 I'm passionate about ethical hacking, and my goal is to use my knowledge to help organizations secure their systems and data. 
@@ -12,21 +10,28 @@ I'm particularly interested in ethical hacking and penetration testing, and I lo
 I’m eager to continue learning and developing my skills, and I'm excited about the endless opportunities the field of cybersecurity offers.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 I am a dedicated and driven individual with a strong foundation in investigative techniques, problem-solving, and security protocols, developed through my studies in Policing. My passion for technology and cybersecurity, particularly in ethical hacking and penetration testing, motivates me to pursue a career in the field. I aim to apply my knowledge of risk assessment, network security, and handling sensitive data to help organizations safeguard their systems against cyber threats. With a unique perspective gained from my policing background, I am eager to contribute to the cybersecurity community and continue expanding my skills in this dynamic and essential field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+Cybersecurity Skills:
+
+Basic Networking
+Password Security
+Threat Identification
+Risk Assessment
+Ethical Hacking (Basics)
+Cybersecurity Awareness
+
+Policing Transferable Skills:
+
+Investigative Skills
+Problem Solving
+Security Protocols
+Data Handling
+Critical Thinking
+Communication Skills
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
