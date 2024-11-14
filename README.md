@@ -16,32 +16,32 @@ I am a dedicated and driven individual with a strong foundation in investigative
 ## Skills
 
 Cybersecurity Skills:
+Basic Networking: I understand how computers connect and communicate over networks. This helps me identify and fix network-related security issues, which is crucial for keeping systems secure.
 
-Basic Networking
+Password Security: I know how to create strong passwords and use multi-factor authentication to keep accounts safe from hackers.
 
-Password Security
+Threat Identification: I can spot common cyber threats like malware or phishing attacks, which helps me stay ahead of potential security risks and protect systems from harm.
 
-Threat Identification
+Risk Assessment: I assess the risks associated with different security threats, so I can prioritize and protect the most important data and systems first.
 
-Risk Assessment
+Ethical Hacking (Intro): I’ve learned how to test systems for weaknesses in a legal and ethical way, helping organizations find and fix vulnerabilities before they can be exploited by attackers.
 
-Ethical Hacking (Basics)
-
-Cybersecurity Awareness
+Cybersecurity Awareness: I stay up-to-date on the latest security threats and understand how to protect myself and others from cyber risks.
 
 Policing Transferable Skills:
+Investigative Skills: I use my investigative skills to analyze security incidents, such as figuring out how a cyberattack happened and what can be done to prevent it in the future.
 
-Investigative Skills
+Problem Solving: I enjoy using my critical thinking to solve complex security challenges, like addressing vulnerabilities or handling security breaches.
 
-Problem Solving
+Security Protocols: I understand the rules and procedures that keep data and systems safe. This helps me ensure that security measures are followed properly.
 
-Security Protocols
+Data Handling: I know how to manage sensitive data carefully, making sure it’s protected from unauthorized access or leaks—something I take very seriously in cybersecurity.
 
-Data Handling
+Critical Thinking: I use critical thinking to analyze situations and make smart, informed decisions about security risks, ensuring I find the best ways to prevent attacks or fix issues.
 
-Critical Thinking
+Communication Skills: I can clearly explain security issues to both technical and non-technical people, which is important when reporting incidents or helping others understand how to stay safe online.
 
-Communication Skills
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
