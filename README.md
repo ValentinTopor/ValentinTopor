@@ -29,10 +29,6 @@ I am a dedicated and driven individual with a strong foundation in investigative
 **Communication Skills:** I can clearly explain security issues to both technical and non-technical people, which is important when reporting incidents or helping others understand how to stay safe online.
 
 
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
