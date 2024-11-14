@@ -44,7 +44,7 @@ I am a dedicated and driven individual with a strong foundation in investigative
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -58,4 +58,5 @@ I am a dedicated and driven individual with a strong foundation in investigative
 ## Projects
 
 - **Network Security Lab** - I set up a home lab using virtual machines to simulate a secure network environment. Configured firewalls, segmented networks, and tested security policies using Nmap to identify vulnerabilities.
+  
 - **Vulnerability Scanning** - Used **Nessus Essentials** to scan a local network for vulnerabilities, analyzed the results, and applied fixes such as patching software and securing configurations to enhance security
