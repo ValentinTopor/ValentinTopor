@@ -43,15 +43,15 @@ I am a dedicated and driven individual with a strong foundation in investigative
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IPconfig-EF3B2D?&style=for-the-badge&logo=IPconfig&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-777BB4?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
-### Endpoint
+### Vulnerability
 
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A4EF?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BurpSuite-4B275F?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
 </div>
 
 
